@@ -2,7 +2,7 @@
 
 [中文说明](README.zh-CN.md)
 
-Browse, copy and sync the **Code** sidebar of Claude Desktop across profiles and accounts, from a terminal UI or the command line.
+Seamlessly sync your Claude Desktop history across profiles, accounts and Desktop apps with ccd-profiles.
 
 Claude Desktop keeps a separate Code sidebar for every account and organization. Switch to a new company account, or run several profiles side by side, and your old sessions stay behind in the old sidebar, even though the conversations themselves are still on disk. ccd-profiles shows every sidebar, copies sessions between them, and keeps sessions that live in several sidebars pointing at the newest conversation.
 

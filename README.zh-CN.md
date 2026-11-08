@@ -2,7 +2,7 @@
 
 [English](README.md)
 
-在终端界面或命令行里，查看 Claude Desktop 各个 profile、各个账号的 **Code** 侧边栏，在它们之间复制和同步 session。
+使用 ccd-profiles 丝滑地同步多个 profiles/accounts/desktop app 的历史记录。
 
 Claude Desktop 给每个账号、每个组织各存一份 Code 侧边栏。换了公司账号，或者同时开着几个 profile，旧的 session 就留在原来的侧边栏里，虽然对话本身还在磁盘上。ccd-profiles 能列出所有侧边栏，在它们之间复制 session，还能让同时出现在几个侧边栏里的 session 都指向最新的那份对话。
 
